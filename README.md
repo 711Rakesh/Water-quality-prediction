@@ -1,1 +1,2 @@
 # Water-quality-prediction
+Welcome to the Water Quality Prediction Project! This endeavor utilizes the Random Forest algorithm to forecast water quality parameters from a detailed dataset. Through robust data preprocessing and feature engineering, the model is trained for accurate predictions.Dive into the code to explore predictive outcomes, and feel free to reach out for any questions or potential collaborations. Let's make waves in water quality prediction together!
